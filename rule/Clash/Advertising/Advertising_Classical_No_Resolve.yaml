@@ -1349,6 +1349,7 @@ payload:
   - DOMAIN,gecko-lq.snssdk.com
   - DOMAIN,geo.adobe.com
   - DOMAIN,geo.hicloud.com
+  - DOMAIN,geo.yahoo.com
   - DOMAIN,geoapi123.appspot.com
   - DOMAIN,geoip.cookieyes.com
   - DOMAIN,geoip.goforandroid.com

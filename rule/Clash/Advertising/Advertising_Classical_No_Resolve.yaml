@@ -1742,6 +1742,7 @@ payload:
   - DOMAIN,metrics.aetn.com
   - DOMAIN,metrics.client-eng.a2z.com
   - DOMAIN,metrics.fedex.com
+  - DOMAIN,metrics.icloud.com
   - DOMAIN,metrics.fidelity.com.edgekey.net
   - DOMAIN,metrics.hackerrank.com.edgekey.net
   - DOMAIN,metricscollector.lp.xcal.tv
